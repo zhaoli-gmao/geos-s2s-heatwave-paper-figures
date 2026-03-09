@@ -29,25 +29,25 @@ Figures from the GEOS-S2S heatwave predictability analysis
 
 ## SEDI
 
-![](figures/bss/SEDI_week3_global_1991_2020_init0506_0809.png)
-![](figures/bss/SEDI_week3_conus_1991_2020_init0506_0809.png)
+![](figures/sedi/SEDI_week3_global_1991_2020_init0506_0809.png)
+![](figures/sedi/SEDI_week3_conus_1991_2020_init0506_0809.png)
 
-![](figures/bss/SEDI_week4_global_1991_2020_init0506_0809.png)
-![](figures/bss/SEDI_week4_conus_1991_2020_init0506_0809.png)
+![](figures/sedi/SEDI_week4_global_1991_2020_init0506_0809.png)
+![](figures/sedi/SEDI_week4_conus_1991_2020_init0506_0809.png)
 
-![](figures/bss/SEDI_week34_global_1991_2020_init0506_0809.png)
-![](figures/bss/SEDI_week34_conus_1991_2020_init0506_0809.png)
+![](figures/sedi/SEDI_week34_global_1991_2020_init0506_0809.png)
+![](figures/sedi/SEDI_week34_conus_1991_2020_init0506_0809.png)
 
  ## TSS
 
-![](figures/bss/TSS_week3_global_1991_2020_init0506_0809.png)
-![](figures/bss/TSS_week3_conus_1991_2020_init0506_0809.png)
+![](figures/tss/TSS_week3_global_1991_2020_init0506_0809.png)
+![](figures/tss/TSS_week3_conus_1991_2020_init0506_0809.png)
 
-![](figures/bss/TSS_week4_global_1991_2020_init0506_0809.png)
-![](figures/bss/TSS_week4_conus_1991_2020_init0506_0809.png)
+![](figures/tss/TSS_week4_global_1991_2020_init0506_0809.png)
+![](figures/tss/TSS_week4_conus_1991_2020_init0506_0809.png)
 
-![](figures/bss/TSS_week34_global_1991_2020_init0506_0809.png)
-![](figures/bss/TSS_week34_conus_1991_2020_init0506_0809.png)
+![](figures/tss/TSS_week34_global_1991_2020_init0506_0809.png)
+![](figures/tss/TSS_week34_conus_1991_2020_init0506_0809.png)
 
 
 
